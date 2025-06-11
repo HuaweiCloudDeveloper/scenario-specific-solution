@@ -27,7 +27,7 @@ _基于华为云进行 Airflow 集群的部署与自动托管，提供相关插�
 
 <details><summary><b>推荐搭配</b></summary>
 
-- 开源镜像：[Airflow编排调度平台](https://marketplace.huaweicloud.com/contents/c677f0c0-4fb3-40b6-83f7-9643ea65de90#productid=OFFI852114547470491648)
+- 开源镜像：[Airflow工作流平台](https://marketplace.huaweicloud.com/hidden/contents/1fe654fa-4bc6-4386-90de-f27961f5f8cc#productid=OFFI1137281825272061952)
 - 社区仓库：[GitCode](https://gitee.com/HuaweiCloudDeveloper/huaweicloud-airflow-provider)、[GitHub](https://github.com/HuaweiCloudDeveloper/HuaweiCloud-Airflow-provider)、[Gitee](https://gitee.com/HuaweiCloudDeveloper/huaweicloud-airflow-provider)
 
 </details>
